@@ -1,0 +1,14 @@
+# Local / XAMPP configuration
+.env
+config.local.php
+
+# Uploaded customer/product media (keep directory placeholder)
+uploads/*
+!uploads/.gitkeep
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
